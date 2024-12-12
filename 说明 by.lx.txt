@@ -1,0 +1,3 @@
+安装mecab日语分词依赖：
+https://pypi.org/project/mecab-python3/
+见Installation
